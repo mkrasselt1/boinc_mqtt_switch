@@ -1,0 +1,8 @@
+{
+    "mqtt_host": "IP of mqtt broker",
+    "mqtt_port": 1883,
+    "mqtt_username": "mqtt_username",
+    "mqtt_password": "mqtt_password",
+    "device_id": "device_id",
+    "switch_name": "switch_name"
+  }
